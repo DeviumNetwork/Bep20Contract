@@ -1,0 +1,9 @@
+https://testnet.bscscan.com/
+
+
+Bep20Token Contract 
+https://testnet.bscscan.com/address/0x9105Ba74ba08A42e1410dce3Da0911bB8150958b
+
+
+Vesting Contract
+https://testnet.bscscan.com/address/0x37ABE8eebB7Eec887d0629b07eEA8Fb26f441b0e
